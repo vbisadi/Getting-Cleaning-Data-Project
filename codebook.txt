@@ -1,0 +1,35 @@
+This codebook provides descriptions about the name of the variables in the second tidy data table
+
+Subject: shows the ID number of each person and varies between 1 and 20
+
+activity: represents the name of 6 activities as follows:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+Other variables represent the data recorded in the experiment as follows:
+
+First letter of each variable name:
+
+t -- represents the time domain
+f -- represents frequency domain
+
+The second word in each variable name describes the measured quantity as follows:
+
+acceleration -- represents the recorded acceleration
+angular velocity -- represents the recorded angular velocity
+
+The word before the last letter shows if the variable represents mean or standard deviation as follows:
+
+mean -- Mean value
+std -- Standard deviation
+
+The last character of the variable name represents the direction of the measured quantity as follows:
+
+X -- denotes axial signal in the X direction
+Y -- denotes axial signal in the Y direction
+Z -- denotes axial signal in the Z direction
